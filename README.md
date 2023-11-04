@@ -16,3 +16,5 @@ friends.csv variables:
 ### About the Topic Modelling project
 
 I am a devoted fan of the 'Friends' sitcom, having rewatched the series numerous times. Among the characters, Chandler Bing stands out as my favorite male character. His witty humor never fails to bring a smile to my face. The recent loss of the actor, Matthew Perry, who portrayed him, deeply saddened fans around the worlds. In tribute to him and the entire cast of the series, I undertook a small project using this captivating dataset.
+
+In this project, I'll visualize text data using WordCloud, employ the LDA model for topic modeling, and compute coherence scores to assess the model's quality and find the optimal number of topics. I'll create an interactive visualization with pyLDAvis, saving it as an HTML link for exploration.
